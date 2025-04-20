@@ -14,6 +14,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
 NO swear words or violence, and if you want an update follow the rules then tell me.
